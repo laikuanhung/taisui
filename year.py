@@ -311,3 +311,15 @@ if __name__ == "__main__":
         print(f"元辰星君：{birth_yuanchen_star}")
         print(f"本命星官：{birth_gan_yi}本命星官{birth_star_official['name']}，從官{birth_star_official['officials']}人")
         print(f"元辰星官：{birth_yuanchen_official['year']}元辰星官{birth_yuanchen_official['name']}，從官{birth_yuanchen_official['officials']}人")
+
+
+
+#請輸入您的出生干支（如甲子、乙丑等）
+#請輸入您的性別（男/女）
+#出生年
+#本命日
+#太歲  出自：https://www.sanching.org.tw/jus5
+#本命星君  《太上玄靈北斗本命延生經》      
+#元辰星君  《太上玄靈北斗本命延生經註卷下》      
+#本命星官  《六十甲子本命元辰曆》  出自：https://www.facebook.com/share/p/16CsXeM73q/
+#元辰星官  《六十甲子本命元辰曆》  
